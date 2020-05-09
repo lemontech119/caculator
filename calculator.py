@@ -1,5 +1,8 @@
+def subtract(a,b):
+    return a-b
+
 def main():
-  pass
+    pass
 
 if __name__ == "__main__":
     main()
